@@ -35,18 +35,19 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+interests: 
+  - Разработка программного обеспечения
+  - Искусственный интеллект
+  - Кибербезопасность
+  - Геймдев
 
 education:
   - area: Student
     institution: RUDN
     date_start: 2024-09-01
     date_end: 2028-05-31
-    summary: 
-      
+    summary: Изучаю компьютерные науки, интересуюсь программированием, алгоритмами и искусственным интеллектом.
+
 work:
   - position: Student
     company_name: RUDN
@@ -54,7 +55,7 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: 
+    summary: Осваиваю языки программирования, алгоритмы, структуры данных и основы машинного обучения.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -62,36 +63,38 @@ skills:
   - name: Хард скиллы
     items:
       - name: Python
-        description: ''
-        percent: 60
+        description: Основы программирования и алгоритмов
+        percent: 70
         icon: code-bracket
-      - name: Переговоры
-        description: ''
-        percent: 80
+      - name: C++
+        description: Разработка ПО и работа с алгоритмами
+        percent: 65
         icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
-        icon: circle-stack
+      - name: Кибербезопасность
+        description: Основы защиты данных и криптографии
+        percent: 50
+        icon: shield-check
   - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Прогулки
-        description: ''
+      - name: Геймдев
+        description: Разрабатываю простые игры
         percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
+      - name: Киберспорт
+        description: Люблю стратегические и командные игры
+        percent: 85
+      - name: Чтение научной фантастики
+        description: Интересуюсь идеями будущего и технологиями
         percent: 80
 
 languages:
   - name: Русский
     percent: 100
   - name: Английский
-    percent: 60
+    percent: 80
+  - name: Японский
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
