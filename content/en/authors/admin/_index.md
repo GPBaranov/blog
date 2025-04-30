@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Баранов Георгий 
+title: Georgiy Baranov
 
 # Name pronunciation (optional)
-name_pronunciation: Баранов Георгий 
+name_pronunciation: Georgiy Baranov
 
 # Full name (for SEO)
-first_name: Георгий 
-last_name:  Баранов 
+first_name: Georgiy
+last_name: Baranov
 
 # Status emoji
 status:
@@ -24,7 +24,7 @@ role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Rudn
+  - name: RUDN
     url: https://rudn.ru/
 
 # Social network links
@@ -35,18 +35,19 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+interests: 
+  - Software Development
+  - Artificial Intelligence
+  - Cybersecurity
+  - Game Development
 
 education:
   - area: Student
     institution: RUDN
     date_start: 2024-09-01
     date_end: 2028-05-31
-    summary: 
-      
+    summary: I study computer science, and I'm interested in programming, algorithms, and artificial intelligence.
+
 work:
   - position: Student
     company_name: RUDN
@@ -54,44 +55,46 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: 
+    summary: I'm learning programming languages, algorithms, data structures, and the basics of machine learning.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Хард скиллы
+  - name: Hard Skills
     items:
       - name: Python
-        description: ''
-        percent: 60
+        description: Basics of programming and algorithms
+        percent: 70
         icon: code-bracket
-      - name: Переговоры
-        description: ''
-        percent: 80
+      - name: C++
+        description: Software development and working with algorithms
+        percent: 65
         icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Хобби
+      - name: Cybersecurity
+        description: Basics of data protection and cryptography
+        percent: 50
+        icon: shield-check
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Прогулки
-        description: ''
+      - name: Game Development
+        description: I develop simple games
         percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
+      - name: Esports
+        description: I enjoy strategic and team-based games
+        percent: 85
+      - name: Reading Science Fiction
+        description: I'm interested in futuristic ideas and technology
         percent: 80
 
 languages:
-  - name: Русский
+  - name: Russian
     percent: 100
-  - name: Английский
-    percent: 60
+  - name: English
+    percent: 80
+  - name: Japanese
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -106,19 +109,20 @@ languages:
 #    summary: 
 ---
 
-## О себе  
+## About Me
 
-👋 Привет! Меня зовут Георгий Баранов. Я студент 1 курса РУДН, учусь на физмате по направлению "Компьютерные науки".  
+👋 Hi! My name is Georgiy Baranov. I’m a first-year student at RUDN University, studying in the Faculty of Physics and Mathematics in the "Computer Science" program.
 
-### Что мне интересно?  
-- 🔥 Программирование и алгоритмы  
-- 🧠 Математика и логика  
-- 💻 Технологии и разработка ПО  
-- 🚀 Машинное обучение и AI  
+### What am I interested in?  
+- 🔥 Programming and algorithms  
+- 🧠 Mathematics and logic  
+- 💻 Technology and software development  
+- 🚀 Machine learning and AI  
 
-### Что я делаю?  
-- 📚 Учусь и осваиваю новые технологии  
-- 🏗 Разбираюсь с компьютерными науками  
-- 📝 Пишу о своих открытиях в блоге  
+### What am I doing?  
+- 📚 Learning and exploring new technologies  
+- 🏗 Diving into computer science  
+- 📝 Writing about my discoveries on my blog  
 
-Буду рад обсудить интересные темы и обменяться опытом! 😃  
+Happy to discuss exciting topics and exchange experience! 😃  
+
